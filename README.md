@@ -1,4 +1,4 @@
-# Cybepunk1867
+# Cyberpunk1867
 Cyber Text 1867 is a text based game, made by me, using inspiration from Cyberpunk 2077
 The story takes place in 1867 Japan in an alternate timeline where technology is much more advanced
 (Definetly **not** done in the time period to forget guns exist)
