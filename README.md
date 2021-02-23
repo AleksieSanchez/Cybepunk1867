@@ -8,4 +8,4 @@ Also, I'm still learning how to code, so don't expect everything to be optimized
 Alhough, if you have any ideas, find a way to communicate them with me
 I still don't know how to use github either :/
 
-**Idea Scrapped lol
+**Idea Scrapped lol**
